@@ -280,7 +280,6 @@ ul {
 PROJECT CSS
 =============
 */
-
 body {
   background: var(--grey-200);
 }
@@ -324,7 +323,6 @@ body {
 PROJECTS 
 =============
 */
-
 .projects {
   padding: 5rem 0;
 }
@@ -336,6 +334,7 @@ PROJECTS
   display: grid;
   gap: 2rem;
 }
+
 .project {
   background: var(--white);
   display: block;
@@ -347,19 +346,16 @@ PROJECTS
   transform: scale(1.05);
   box-shadow: var(--shadow-4);
 }
-
 .project .img {
   height: 15rem;
   border-top-right-radius: var(--borderRadius);
   border-top-left-radius: var(--borderRadius);
 }
-
 .project h5 {
   text-align: center;
   padding: 1rem 0;
   color: var(--grey-700);
 }
-
 @media (min-width: 768px) {
   .projects-center {
     grid-template-columns: 1fr 1fr;

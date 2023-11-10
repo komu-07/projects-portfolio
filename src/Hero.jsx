@@ -5,7 +5,7 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>Projects portfolio</h1>
+          <h1>Project portfolio</h1>
 
           <p>
             This site contains all my react and javascript projects. You can
