@@ -8,10 +8,9 @@ const Hero = () => {
           <h1>Projects portfolio</h1>
 
           <p>
-            Pitchfork schlitz tonx, coloring book celiac tousled succulents
-            ascot affogato cardigan jianbing crucifix seitan. Synth man braid
-            everyday carry try-hard pour-over keffiyeh slow-carb sriracha
-            chillwave banjo gochujang kinfolk small batch mustache.
+            This site contains all my react and javascript projects. You can
+            take a look at all my work here. Just click on any of these card and
+            you will quickly navigate to that particular project
           </p>
         </div>
         <div className="img-container">
